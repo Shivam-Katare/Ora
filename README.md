@@ -1,6 +1,9 @@
 # Ora: The Voice of News 🎙️
 
-**Your personal AI news anchor that reads the latest headlines out loud!**
+
+https://github.com/user-attachments/assets/62c93ec8-8162-42d2-8a9c-91009a3ce498
+
+
 
 Ora is an AI-powered news reader that fetches the latest headlines from Indian Express and converts them into professional news broadcasts using AI voice synthesis. Just pick a category, hit a button, and let Ora read the news to you!
 
@@ -14,7 +17,7 @@ Ora is an AI-powered news reader that fetches the latest headlines from Indian E
 
 ## 🛠️ Tech Stack
 
-- **[Agno](https://agno.ai)** - AI agent framework
+- **[Agno](https://docs.agno.com/introduction)** - AI agent framework
 - **[FireCrawl](https://firecrawl.dev)** - Web scraping
 - **[Cartesia](https://cartesia.ai)** - Voice synthesis
 - **[Streamlit](https://streamlit.io)** - Web interface
@@ -97,27 +100,17 @@ news-agent-streamlit/
 └── README.md             # This file
 ```
 
-## ⚡ Performance
-
-- **News scraping**: ~10-15 seconds
-- **Audio generation**: ~30-60 seconds
-- **Total time**: ~1-2 minutes per news briefing
-
 ## 🔄 Current Limitations
 
 - Single news source (Indian Express only)
 - One voice option
 - English language only
-- Requires stable internet connection
-
+- 
 ## 🚧 Upcoming Features
 
 - [ ] Multiple news sources
 - [ ] Different voice options
 - [ ] Multi-language support
-- [ ] Faster audio generation
-- [ ] News summarization levels
-- [ ] Export audio files
 
 ## 🤝 Contributing
 
@@ -143,9 +136,6 @@ If you encounter any issues:
 4. Check the terminal for error messages
 
 ## 💫 Made with ❤️
-
-Built using modern AI tools to make news consumption more accessible and engaging.
-
 ---
 
-**Enjoy your personalized AI news experience with Ora!** 🎙️
+**Enjoy your personalized AI news experience with Ora!**
