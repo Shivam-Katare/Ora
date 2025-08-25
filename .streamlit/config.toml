@@ -1,0 +1,16 @@
+[theme]
+primaryColor = "#F39C12"                # Keep this orange highlight or change if needed
+backgroundColor = "#0E1117"             # Dark background
+secondaryBackgroundColor = "#262730"    # Slightly lighter for cards/sidebars
+textColor = "#FFFFFF"                   # White text for dark background
+font = "sans serif"
+
+[server]
+enableCORS = false
+headless = true
+port = 8501
+enableXsrfProtection = false
+runOnSave = true
+
+[global]
+maxCachedMessageSize = 1000000

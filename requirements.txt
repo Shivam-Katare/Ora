@@ -1,0 +1,7 @@
+streamlit
+requests
+python-dotenv
+agno>=1.0.0
+google-genai>=1.0.0
+cartesia>=1.0.0
+httpx>=0.24.0
